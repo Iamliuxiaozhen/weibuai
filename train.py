@@ -1,3 +1,4 @@
+#这个训练脚本不是最终版，请大家仅参考原理不要运行
 import torch
 from unsloth import FastLanguageModel
 from datasets import load_dataset
