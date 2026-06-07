@@ -21,7 +21,7 @@ cd weibuai
 3.下载模型权重
 Linux/Unix/macOS:
 ```
-wget https://modelscope.cn/models/keyoweb/weibu/file/view/master/weibu1.0.1_3b.gguf?status=2
+wget "https://modelscope.cn/models/keyoweb/weibu/file/view/master/weibu1.0.1_3b.gguf?status=2"
 ```
 Windows或者命令运行失败请把链接粘贴至浏览器/下载器/PCL2（这个支持下载）
 4.部署模型
